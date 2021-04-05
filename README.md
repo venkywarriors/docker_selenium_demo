@@ -33,7 +33,8 @@ docker-machine start default
 To get all docker containers up and running use:
 
 ```
-git clone git@github.com:eteration/docker-selenium-demo.git
+
+git clone git@github.com:venkywarriors/docker_selenium_demo.git
 cd docker-selenium-demo
 docker-compose up
 ```
